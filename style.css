@@ -1,0 +1,36 @@
+body {
+    background:     url("assets/bg.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    color: white;
+    font-family: 'Lobster Two', cursive;
+}
+
+h6 {
+    text-align: left;
+    font-family: 'Dancing Script', cursive; 
+}
+
+h1 {
+     font-family: 'Dancing Script', cursive;
+}
+
+p {
+    font-size: 30px;
+}
+
+input {
+    font-size: 18px;
+    border: 0px;
+    padding: 10px;
+    font-family: 'Lobster Two', cursive;
+}
+
+input[type="submit"] {
+   background: red;
+    color: white;
+}
+
+
