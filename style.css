@@ -1,11 +1,12 @@
 body {
-    background:     url("assets/bg.png");
+    background:     url("assets/citybg.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     text-align: center;
     color: white;
     font-family: 'Lobster Two', cursive;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 h6 {
